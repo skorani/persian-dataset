@@ -1,1 +1,1 @@
-# some banking dataset for ML and Datascience
+# Some Banking dataset for ML and Datascience
